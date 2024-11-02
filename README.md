@@ -74,7 +74,7 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
     - Show basic user info
     - List of articles populated from author's created articles or author's favorited articles
  
-    - Test examen final ACS v2
+    - Test examen final ACS v3
 
 
 <br />
